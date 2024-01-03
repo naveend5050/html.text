@@ -1,0 +1,16 @@
+.login{
+    text-align: center;
+    background-color: goldenrod;
+    border-style:groove;
+    border:50px 20px 50px 20px; 
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    font-style: oblique;
+    border-style: dotted;
+}
+body{
+    background-color: chocolate;
+    
+}
